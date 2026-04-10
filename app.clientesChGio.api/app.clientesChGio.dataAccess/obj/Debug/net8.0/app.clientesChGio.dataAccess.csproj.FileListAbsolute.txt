@@ -1,0 +1,16 @@
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\bin\Debug\net8.0\app.clientesChGio.dataAccess.deps.json
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\bin\Debug\net8.0\app.clientesChGio.dataAccess.dll
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\bin\Debug\net8.0\app.clientesChGio.dataAccess.pdb
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\bin\Debug\net8.0\app.clientesChGio.entities.dll
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\bin\Debug\net8.0\app.clientesChGio.entities.pdb
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\obj\Debug\net8.0\app.clientesChGio.dataAccess.csproj.AssemblyReference.cache
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\obj\Debug\net8.0\app.clientesChGio.dataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\obj\Debug\net8.0\app.clientesChGio.dataAccess.AssemblyInfoInputs.cache
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\obj\Debug\net8.0\app.clientesChGio.dataAccess.AssemblyInfo.cs
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\obj\Debug\net8.0\app.clientesChGio.dataAccess.csproj.CoreCompileInputs.cache
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\obj\Debug\net8.0\app.clientesChGio.dataAccess.sourcelink.json
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\obj\Debug\net8.0\app.clie.BAC94D0C.Up2Date
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\obj\Debug\net8.0\app.clientesChGio.dataAccess.dll
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\obj\Debug\net8.0\refint\app.clientesChGio.dataAccess.dll
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\obj\Debug\net8.0\app.clientesChGio.dataAccess.pdb
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.dataAccess\obj\Debug\net8.0\ref\app.clientesChGio.dataAccess.dll

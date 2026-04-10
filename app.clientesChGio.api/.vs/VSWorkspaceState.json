@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app.clientesChGio.api",
+    "\\app.clientesChGio.common",
+    "\\app.clientesChGio.common\\DTOs",
+    "\\app.clientesChGio.dataAccess",
+    "\\app.clientesChGio.entities",
+    "\\app.clientesChGio.entities\\models",
+    "\\app.clientesChGio.services",
+    "\\app.clientesChGio.services\\EventMQ",
+    "\\app.clientesChGio.services\\Implementations"
+  ],
+  "SelectedNode": "\\app.clientesChGio.api\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,12 @@
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.entities\bin\Debug\net8.0\app.clientesChGio.entities.deps.json
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.entities\bin\Debug\net8.0\app.clientesChGio.entities.dll
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.entities\bin\Debug\net8.0\app.clientesChGio.entities.pdb
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.entities\obj\Debug\net8.0\app.clientesChGio.entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.entities\obj\Debug\net8.0\app.clientesChGio.entities.AssemblyInfoInputs.cache
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.entities\obj\Debug\net8.0\app.clientesChGio.entities.AssemblyInfo.cs
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.entities\obj\Debug\net8.0\app.clientesChGio.entities.csproj.CoreCompileInputs.cache
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.entities\obj\Debug\net8.0\app.clientesChGio.entities.sourcelink.json
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.entities\obj\Debug\net8.0\app.clientesChGio.entities.dll
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.entities\obj\Debug\net8.0\refint\app.clientesChGio.entities.dll
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.entities\obj\Debug\net8.0\app.clientesChGio.entities.pdb
+C:\appDistri2026\CodigoIng\appDistri2026CursoAct\apiNetCore\app.clientesChGio.api\app.clientesChGio.entities\obj\Debug\net8.0\ref\app.clientesChGio.entities.dll

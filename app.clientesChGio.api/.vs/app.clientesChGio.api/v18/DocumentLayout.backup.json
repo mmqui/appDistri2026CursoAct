@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\appDistri2026\\CodigoIng\\appDistri2026CursoAct\\apiNetCore\\app.clientesChGio.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C33DFB59-0D59-41AF-ADF5-A4A8C1086018}|app.clientesChGio.api\\app.clientesChGio.api.csproj|c:\\appdistri2026\\codigoing\\appdistri2026cursoact\\apinetcore\\app.clienteschgio.api\\app.clienteschgio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33DFB59-0D59-41AF-ADF5-A4A8C1086018}|app.clientesChGio.api\\app.clientesChGio.api.csproj|solutionrelative:app.clienteschgio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33DFB59-0D59-41AF-ADF5-A4A8C1086018}|app.clientesChGio.api\\app.clientesChGio.api.csproj|c:\\appdistri2026\\codigoing\\appdistri2026cursoact\\apinetcore\\app.clienteschgio.api\\app.clienteschgio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C33DFB59-0D59-41AF-ADF5-A4A8C1086018}|app.clientesChGio.api\\app.clientesChGio.api.csproj|solutionrelative:app.clienteschgio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33DFB59-0D59-41AF-ADF5-A4A8C1086018}|app.clientesChGio.api\\app.clientesChGio.api.csproj|c:\\appdistri2026\\codigoing\\appdistri2026cursoact\\apinetcore\\app.clienteschgio.api\\app.clienteschgio.api\\app.clienteschgio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C33DFB59-0D59-41AF-ADF5-A4A8C1086018}|app.clientesChGio.api\\app.clientesChGio.api.csproj|solutionrelative:app.clienteschgio.api\\app.clienteschgio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\appDistri2026\\CodigoIng\\appDistri2026CursoAct\\apiNetCore\\app.clientesChGio.api\\app.clientesChGio.api\\appsettings.json",
+              "RelativeDocumentMoniker": "app.clientesChGio.api\\appsettings.json",
+              "ToolTip": "C:\\appDistri2026\\CodigoIng\\appDistri2026CursoAct\\apiNetCore\\app.clientesChGio.api\\app.clientesChGio.api\\appsettings.json",
+              "RelativeToolTip": "app.clientesChGio.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T02:06:01.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\appDistri2026\\CodigoIng\\appDistri2026CursoAct\\apiNetCore\\app.clientesChGio.api\\app.clientesChGio.api\\Program.cs",
+              "RelativeDocumentMoniker": "app.clientesChGio.api\\Program.cs",
+              "ToolTip": "C:\\appDistri2026\\CodigoIng\\appDistri2026CursoAct\\apiNetCore\\app.clientesChGio.api\\app.clientesChGio.api\\Program.cs",
+              "RelativeToolTip": "app.clientesChGio.api\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:46:34.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.clientesChGio.api.csproj",
+              "DocumentMoniker": "C:\\appDistri2026\\CodigoIng\\appDistri2026CursoAct\\apiNetCore\\app.clientesChGio.api\\app.clientesChGio.api\\app.clientesChGio.api.csproj",
+              "RelativeDocumentMoniker": "app.clientesChGio.api\\app.clientesChGio.api.csproj",
+              "ToolTip": "C:\\appDistri2026\\CodigoIng\\appDistri2026CursoAct\\apiNetCore\\app.clientesChGio.api\\app.clientesChGio.api\\app.clientesChGio.api.csproj",
+              "RelativeToolTip": "app.clientesChGio.api\\app.clientesChGio.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-31T12:47:20.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
